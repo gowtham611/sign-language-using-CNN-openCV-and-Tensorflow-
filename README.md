@@ -80,7 +80,7 @@ To run the application:
 python example.py
 ```
 
-##Streamlit Application
+## Streamlit Application
 
 The Streamlit app provides the following features:
 
