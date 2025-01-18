@@ -1,5 +1,5 @@
 
-# Sign Language Recognition using [insert technology, e.g., CNN, RNN, etc.]
+# Sign Language Recognition using [CNN,openCv,TensorFlow,Streamlit]
 
 This repository contains the code for a Sign Language Recognition project. The project aims to recognize and interpret sign language gestures using deep learning techniques.
 
